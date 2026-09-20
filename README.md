@@ -110,6 +110,8 @@ The commands are split into two little groups:
                     banner (Sea Salt, Roxas, or Nobody)
    [I]  Info        a quick rundown plus privacy notes
    [S]  Socials     jump to my Discord, X, YouTube, or TikTok
+   [O]  Offline     look up name variations with no login
+                    (no availability check, no name changes)
 
 Anywhere else, just type a word and it'll generate the
 variations for you.
@@ -157,12 +159,6 @@ Enjoy it, and say hi sometime!
 
  - Hi / Litwolf
 
-<img width="1920" height="1027" alt="33EEB469-38CB-4A50-8678-4EA911A2ED0B" src="https://github.com/user-attachments/assets/3e67c05d-dc1b-4eb3-b209-5fa1c2545747" />
-<img width="559" height="768" alt="EDD3D0B8-DD86-426A-A759-43CB3A6C0C32" src="https://github.com/user-attachments/assets/342578ef-c37b-476d-b066-988a5aa78705" />
-<img width="496" height="423" alt="B74F7825-9922-4B74-B06F-C84D210AEEDB" src="https://github.com/user-attachments/assets/c10f5743-4346-49d0-b05a-a44fc4556593" />
-<img width="484" height="238" alt="F1B44B20-0C98-41DE-B091-3CA91B04D504" src="https://github.com/user-attachments/assets/f033317a-420d-4b94-a898-e727ce92c9b5" />
-<img width="490" height="274" alt="D64CEC14-FAB2-4FD3-98A8-F1C1EDE50EF5" src="https://github.com/user-attachments/assets/7c23aabd-e184-4beb-9e2c-31b692a3249c" />
-<img width="468" height="106" alt="0533BEF2-BCB8-429A-BC03-A6DE0791FEA4" src="https://github.com/user-attachments/assets/0830479d-a005-4ed4-af0a-4a6638eab14c" />
 
 --------------------------------------------------------------
  LICENSE
