@@ -157,7 +157,6 @@ Enjoy it, and say hi sometime!
 
  - Hi / Litwolf
 
-<img width="800" height="800" alt="9b56d0bc1f9859c429c1fbf30d5feed2 jpg 01965bbf8983ec5e0e38a91437a140c6" src="https://github.com/user-attachments/assets/d0388567-1873-470b-b9f2-5bd429a4a694" />
 <img width="1920" height="1027" alt="33EEB469-38CB-4A50-8678-4EA911A2ED0B" src="https://github.com/user-attachments/assets/3e67c05d-dc1b-4eb3-b209-5fa1c2545747" />
 <img width="559" height="768" alt="EDD3D0B8-DD86-426A-A759-43CB3A6C0C32" src="https://github.com/user-attachments/assets/342578ef-c37b-476d-b066-988a5aa78705" />
 <img width="496" height="423" alt="B74F7825-9922-4B74-B06F-C84D210AEEDB" src="https://github.com/user-attachments/assets/c10f5743-4346-49d0-b05a-a44fc4556593" />
