@@ -1,5 +1,3 @@
-
-==============================================================
  ROXAS MAPPER
 ==============================================================
 
@@ -23,7 +21,7 @@ Two clicks and you're going:
  1. Download RMInstaller.bat and double-click it. It sets
     everything up on its own - give it about 5 to 10 minutes
     the first time, since it downloads a browser in the
-    background may come up as a false positive.
+    background.
 
  2. When it finishes, run RoxasMapper.py (double-click it, or
     type "python RoxasMapper.py" if you like the command line).
@@ -85,6 +83,8 @@ gets uploaded anywhere:
                             the Epic website
  - .roxas_first_run         a tiny marker so the welcome
                             screen only shows once
+ - .roxas_config.json       remembers your color + banner
+                            choice between runs
 
 Want it all gone? Hit [L] Logout to clear your saved login and
 session, or [U] Uninstall to remove everything the installer
